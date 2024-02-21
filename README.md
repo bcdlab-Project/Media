@@ -13,3 +13,6 @@ The command used to convert an image to ASCII is:
 ```bash
 jp2a --output=[media name]-ascii.txt --colors [media name] --height=[height]
 ```
+Normaly Console Media is Stored in the `console` folder.
+
+> Note: Some Console Media ware Edited by hand to make them look better.
